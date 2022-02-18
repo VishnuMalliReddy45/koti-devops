@@ -1,1 +1,2 @@
 First commit from GIT BASH
+Second commit from GitHUB
